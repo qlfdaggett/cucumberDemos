@@ -1,0 +1,4 @@
+pages/LogInPage.class
+cucumberParallel/RunCucumberTest.class
+pages/HomePage.class
+cucumberParallel/StepDefinitions.class

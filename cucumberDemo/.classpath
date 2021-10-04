@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin/test" path="src/test/java">
+		<attributes>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="bin/test" path="src/test/resources">
+		<attributes>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="lib" path="/Users/fdaggett/.p2/pool/plugins/org.testng_7.4.0.r202105021533.jar" sourcepath="/Users/fdaggett/.p2/pool/plugins/org.testng.source_7.4.0.r202105021533.jar"/>
+	<classpathentry kind="lib" path="/Users/fdaggett/Documents/libraries/cucumber/cucumber-testng-7.0.0-RC1.jar"/>
+	<classpathentry kind="lib" path="/Users/fdaggett/Documents/selenium-java-4.0.0-rc-1/selenium-api-4.0.0-rc-1.jar"/>
+	<classpathentry kind="lib" path="/Users/fdaggett/Documents/selenium-java-4.0.0-rc-1/selenium-chrome-driver-4.0.0-rc-1.jar"/>
+	<classpathentry kind="output" path="bin/default"/>
+</classpath>
